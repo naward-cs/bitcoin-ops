@@ -19,6 +19,7 @@
     "bitcoin"
   ],
   "files": [
+    "evals.json",
     "index.json",
     "map.js"
   ],
